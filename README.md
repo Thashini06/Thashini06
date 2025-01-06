@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Thashini Gunawardhana</h1>
 <h3 align="center">Full-stack dreamer, lifelong learner.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=thashi2002&label=Profile%20views&color=0e75b6&style=flat" alt="thashi2002" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=thashini06&label=Profile%20views&color=0e75b6&style=flat" alt="thashini06" /> </p>
 <img src="https://github.com/sourabmaity/sourabmaity/blob/main/header_.png" >
 
 ---
@@ -23,19 +23,17 @@
 
   ---
 
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/Thashi2002">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Thashi2002&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/Thashini06">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Thashini06&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
-
+  <a href="https://github.com/Thashini06">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Thashini06&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
 </p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKanoi2001&theme=dark&hide_border=true"/>
-</p>
-
 
 <br>
 <div id="user-content-toc">
